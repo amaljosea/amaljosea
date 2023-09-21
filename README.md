@@ -4,10 +4,8 @@
 
 <!-- Contact Information -->
 - 📧 Email: [amaljoseami@gmail.com](mailto:amaljoseami@gmail.com)
-- 🌐 GitHub: [github.com/your-username](https://github.com/your-username)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
-- 📝 Blog: [your-blog-url.com](https://your-blog-url.com)
-- 📱 Phone: +4917635636041
+- 💼 LinkedIn: [linkedin.com/in/amaljosea](https://www.linkedin.com/in/yourname)
+- 📝 Blog: [Medium](https://medium.com/@amaljose_90246)
 - 🌍 Location: Berlin, Germany
 
 <!-- Professional Summary -->
